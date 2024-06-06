@@ -16,18 +16,18 @@
 ### Tools & Platforms:git init
 
 <div>
-  <img style="margin: 10px" src="/assets/svg/git.svg" alt="Git" height="50" />
-  <img style="margin: 10px" src="/assets/svg/npm.svg" alt="npm" height="50" />
-  <img style="margin: 10px" src="/assets/svg/yarn.svg" alt="yarn" height="50" />
-  <img style="margin: 10px" src="/assets/svg/github.svg" alt="github" height="50" />
-  <img style="margin: 10px" src="/assets/svg/vscode.svg" alt="vscode" height="50" />
+  <img style="margin: 10px" src="git.svg" alt="Git" height="50" />
+  <img style="margin: 10px" src="npm.svg" alt="npm" height="50" />
+  <img style="margin: 10px" src="yarn.svg" alt="yarn" height="50" />
+  <img style="margin: 10px" src="github.svg" alt="github" height="50" />
+  <img style="margin: 10px" src="vscode.svg" alt="vscode" height="50" />
 </div>
 
 
 ###
 
 <p align="center">
- <img width="100%" src="assets/svg/github-snake.svg" alt="snake"/>
+ <img width="100%" src="github-snake.svg" alt="snake"/>
 </p>
 
 ###
